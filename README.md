@@ -8,7 +8,7 @@ As you begin to build text classification models, you will typically start with 
 
 You will be able to:
 
-* Explain why NLP datasets are less likely to be labeled automatically
+* Explain why NLP datasets are less likely to be labeled automatically.
 * Define MTurk and HITs in the context of data labeling
 * Describe the ethical considerations around paying data labelers
 * Describe the ethical considerations around using large datasets scraped from the Internet
